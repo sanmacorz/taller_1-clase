@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Cree un programa que lea un número y determine a través de un ciclo while si este es un número primo o no.
+# Lea un número y determine a través de un ciclo while si este es un número primo o no
 
 numero = int(input("Ingrese un número: "))
 i = 2

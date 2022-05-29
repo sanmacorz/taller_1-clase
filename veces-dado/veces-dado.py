@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# Calcular la cantidad de veces que sale el número 3 al lanzar N veces un dado.
+
 import random
 
 n = int(input("Digite las veces que quiere tirar el dado: "))
