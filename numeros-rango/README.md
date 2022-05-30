@@ -1,4 +1,4 @@
-# Cantidad de elementos dentro de un rango
+# Cantidad de Elementos dentro de un rango
 
 Dado un rango de números enteros, obtener la cantidad de números que contiene.
 
